@@ -1,0 +1,113 @@
+body
+{
+background-color:#b30000;
+}
+
+
+header
+{
+background-color:#d9d9d9;
+margin: auto;
+border-radius: 10px;
+padding:10px;
+margin: 10px;
+font-size: 180%;
+font-weight: bolder;
+}
+
+
+nav
+{
+background-color: #d9d9d9;
+margin: auto;
+border-radius: 10px;
+padding:10px;
+margin: 10px;
+}
+
+
+main
+{
+background-color: #d9d9d9;
+height: 175px;
+border-radius: 10px;
+margin: auto;
+padding: 10px;
+margin: 10px;
+float: left;
+width: 1280px;
+}
+
+
+
+.maintwo
+{
+background-color: #d9d9d9;
+height: 175px;
+border-radius: 10px;
+margin-left: 310px;
+margin-right: 310px;
+padding: 10px;
+margin: 10px;
+float: left;
+width: 1280px;
+}
+
+
+
+
+.sideleft
+{
+background-color:#c5ceb9;
+float: left;
+width: 250px;
+height: 350px;
+color: white;
+border-radius: 10px;
+padding: 15px;
+margin-left: 10px;
+
+}
+
+
+
+
+.sideright
+{
+background-color: #c5ceb9;
+float: right;
+width: 250px;
+height: 350px;
+color: white;
+border-radius: 10px;
+padding: 15px;
+margin-right: 10px;
+font-size: 130%;
+font-weight: bold;
+text-align: center;
+
+}
+
+
+.links
+{ 
+font-family: Lucida Console;
+font-style: italic;
+font-variant: small-caps;
+}
+
+
+
+
+
+footer
+{
+
+background-color: #c5ceb9;
+margin: auto;
+border-radius: 10px;
+padding:10px;
+margin: 10px;
+clear: left;
+
+}
